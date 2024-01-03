@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.greeen{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.main{
+	display:flex;
+	justify-content:center;
+	flax-wrap:wrap;
+}
+.greeen{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.red{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.blue{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
