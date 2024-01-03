@@ -5,7 +5,7 @@
 	height:100px;
 	background-color:green;
 }
-.main{
+.holder{
 	display:flex;
 	justify-content:center;
 	flax-wrap:wrap;
