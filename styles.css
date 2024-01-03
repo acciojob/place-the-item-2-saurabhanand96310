@@ -8,7 +8,7 @@
 .holder{
 	display:flex;
 	justify-content:center;
-	flax-wrap:wrap;
+	flex-wrap:wrap;
 }
 
 .red{
